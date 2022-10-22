@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anujonthemove
+- 👋 Hi, I’m Anuj Khandelwal
 - 👀 I’m interested in Computer Vision, Machine Learning
 - 🌱 I’m currently learning MLOps.
 - 🕶 I'm currently working on creating best Software Development practices for Machine Learning in my current organization.
